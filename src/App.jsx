@@ -124,7 +124,7 @@ export default function TimeAudit() {
   );
 
   return (
-    <div style={{ background: "#0a0a0a", fontFamily: "'DM Mono','Courier New',monospace", color: "#e8e4dc", minHeight: "100vh" }}>
+    <div style={{ background: "#0a0a0a", fontFamily: "'DM Mono','Courier New',monospace", color: "#e8e4dc", minHeight: "auto" }}>
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Mono:wght@400;500&display=swap');
         * { box-sizing: border-box; margin: 0; padding: 0; }
